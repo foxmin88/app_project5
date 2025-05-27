@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "676029393454",
+    "firebase_url": "https://smart-case-7df1d-default-rtdb.firebaseio.com",
+    "project_id": "smart-case-7df1d",
+    "storage_bucket": "smart-case-7df1d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676029393454:android:693e61cfb98a91d6370dbf",
+        "android_client_info": {
+          "package_name": "com.example.bluelinktest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPPlpl5FcowG-K6S1EDmbEk_ySaQ_mO7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
